@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Alexis Lozano</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+  <link href="{{ get_url(path="style.css", trailing_slash=false) | safe }}" rel="stylesheet">
+  <link href="{{ get_url(path="favicon.ico", trailing_slash=false) | safe }}" rel="icon">
+  <link href="{{ get_url(path="rss.xml", trailing_slash=false) | safe }}" rel="alternate" title="Alexis Lozano" type="application/rss+xml" />
+</head>
+
+<body>
+  <nav><a href="/"><- Back to index</a></nav>
+  <main>
+    {% block content %} {% endblock %}
+  </main>
+  <hr>
+  <footer>
+    <p>Copyright Alexis Lozano.</p>
+    <p>Website built with <a href="https://getzola.org">Zola</a> and proudly self-hosted.</p>
+  </footer>
+</body>
+
+</html>

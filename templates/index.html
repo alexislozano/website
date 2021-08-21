@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Hello there! I am Alexis Lozano.</h1>
+<p>Welcome to my little online space.</p>
+<p>Want to work with me ? Here is my <a href="resume">resume</a>.</p>
+<p>Here are some links where you can find me:</p>
+<ul>
+  <li><a href="http://github.com/alexislozano">Github</a></li>
+  <li><a href="http://linkedin.com/in/alexis-lozano">Linkedin</a></li>
+  <li><a href="mailto:alexis.pascal.lozano@gmail.com">Email</a></li>
+</ul>
+<p>Next are the blog posts I write when I don't have anything better to do:</p>
+<ul>
+  {% for page in section.pages %}
+  <li><a href="{{ page.permalink }}">{{ page.date }} - {{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endblock content %}

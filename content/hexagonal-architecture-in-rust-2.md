@@ -9,6 +9,7 @@ This article is part of the following series:
 - Hexagonal architecture in Rust #2
 - [Hexagonal architecture in Rust #3](@/hexagonal-architecture-in-rust-3.md)
 - [Hexagonal architecture in Rust #4](@/hexagonal-architecture-in-rust-4.md)
+- [Hexagonal architecture in Rust #5](@/hexagonal-architecture-in-rust-5.md)
 
 > Disclaimer: In this article, I'll use a simple mutable reference for the repository. That's because for now we are just using it in tests. I'll make the relevant changes in a next article ;)
 

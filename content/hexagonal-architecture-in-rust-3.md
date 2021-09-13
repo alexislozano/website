@@ -51,7 +51,7 @@ src
 
 The only use of `rouille` will be inside of the `api` folder. If in the future, we want to replace `rouille` with `actix`, we'll just have to change the content of `api` (actually we'll also have to make some functions async but that's orthogonal to the web framework).
 
-Let's now add some code to have a basic working API returning some text when sending a `GET` request on `/health`. For this, let us first import the `rouille` macros is our `main.rs` file and use some function we'll create afterwards:
+Let's now add some code to have a basic working API returning some text when sending a `GET` request on `/health`. For this, let us first import the `rouille` macros in our `main.rs` file and use some function we'll create afterwards:
 
 ```
 mod api;

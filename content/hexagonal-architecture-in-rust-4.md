@@ -573,3 +573,7 @@ fn it_should_return_the_pokemon_otherwise() {
 We are done with this long refactoring. Hope everything went well ;) I promise, next time we'll implement the other use cases! If you want to be notified of the release of the next article, feel free to subscribe to the rss feed or to my twitter.
 
 As usual, the code is available on [github](https://github.com/alexislozano/pokedex/tree/article-4).
+
+## Thanks
+
+- [woshilapin](https://github.com/woshilapin) for fixing some typos

@@ -532,3 +532,7 @@ You can run `cargo run` and send a valid request to the `create_pokemon` route. 
 That was longer than expected, sorry for that. I hope it was useful to you :) In the next article, I'll implement the other use cases (the client is tired of waiting for me to explain everything, bad client :p). After that I'll implement other front-end and repositories to get a better understanding of the power of the hexagonal architecture. If you want to be notified of the release of the next article, feel free to subscribe to the rss feed or to my twitter.
 
 As usual, the code is accessible on [github](https://github.com/alexislozano/pokedex/tree/article-3).
+
+## Thanks
+
+- [woshilapin](https://github.com/woshilapin) for fixing some typos

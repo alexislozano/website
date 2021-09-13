@@ -45,7 +45,7 @@ Let's work on refactoring now ;)
 
 You read the title, we'll work on the values returned by the functions. We'll do that for the use case and the repository.
 
-### Chamge the use case return type
+### Change the use case return type
 
 First, we'll edit a bit `api/create_pokemon.rs`. We will work with the tests for now, we don't want to have compile errors because the API does not understand we are changing the use case return type.
 

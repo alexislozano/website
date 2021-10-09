@@ -10,6 +10,7 @@ This article is part of the following series:
 - [Hexagonal architecture in Rust #3](@/hexagonal-architecture-in-rust-3.md)
 - [Hexagonal architecture in Rust #4](@/hexagonal-architecture-in-rust-4.md)
 - Hexagonal architecture in Rust #5
+- [Hexagonal architecture in Rust #6](@/hexagonal-architecture-in-rust-6.md)
 
 Last time, we've done a bit a refactoring. Somehow, our client is angry at us... I mean, he should be happy, the code is now cleaner as ever. 'Kay, he does not know the good things. He's talking about use cases and how we still have work to do.
 

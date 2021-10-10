@@ -1,16 +1,16 @@
 +++
-title = "Hexagonal architecture in Rust #2"
+title = "Hexagonal architecture in Rust #2 - In-memory repository"
 date = 2021-08-24
 +++
 
 This article is part of the following series:
 
-- [Hexagonal architecture in Rust #1](@/hexagonal-architecture-in-rust-1.md)
-- Hexagonal architecture in Rust #2
-- [Hexagonal architecture in Rust #3](@/hexagonal-architecture-in-rust-3.md)
-- [Hexagonal architecture in Rust #4](@/hexagonal-architecture-in-rust-4.md)
-- [Hexagonal architecture in Rust #5](@/hexagonal-architecture-in-rust-5.md)
-- [Hexagonal architecture in Rust #6](@/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #1 - Domain](@/hexagonal-architecture-in-rust-1.md)
+- Hexagonal architecture in Rust #2 - In-memory repository
+- [Hexagonal architecture in Rust #3 - HTTP API](@/hexagonal-architecture-in-rust-3.md)
+- [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
+- [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
+- [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
 
 > Disclaimer: In this article, I'll use a simple mutable reference for the repository. That's because for now we are just using it in tests. I'll make the relevant changes in a next article ;)
 

@@ -1,5 +1,5 @@
 +++
-title = "Hexagonal architecture in Rust #5 - Remaining use-cases - Remaining use-cases"
+title = "Hexagonal architecture in Rust #5 - Remaining use-cases"
 date = 2021-09-12
 +++
 

@@ -1,5 +1,5 @@
 +++
-template = "resume.html"
+template = "standalone.html"
 +++
 
 # Alexis Lozano - Software Engineer

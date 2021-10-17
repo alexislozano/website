@@ -11,6 +11,7 @@ This article is part of the following series:
 - [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
 - [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
 - [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/hexagonal-architecture-in-rust-7.md)
 
 For some time, I've been reading a lot of articles and books about hexagonal architecture, clean architecture, and so on. I've watched a lot of talks too. During all this time learning about these topics, I was wondering how I would implement them in Rust, knowing that the ownership model would maybe make it hard.
 

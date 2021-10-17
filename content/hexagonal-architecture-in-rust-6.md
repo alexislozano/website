@@ -11,6 +11,7 @@ This article is part of the following series:
 - [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
 - [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
 - Hexagonal architecture in Rust #6 - CLI
+- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/hexagonal-architecture-in-rust-7.md)
 
 Hey, long time no see! Don't be afraid, I haven't forgotten this series. Last time, we implemented the remaining use cases and we have connected them to our API. Now, I want to add another way to use our program. We'll go with a CLI. CLI means Command Line Interface, it is just an acronym to say: "Let's use this program through the terminal".
 

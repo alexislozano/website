@@ -11,6 +11,7 @@ This article is part of the following series:
 - Hexagonal architecture in Rust #4 - Refactoring
 - [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
 - [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/hexagonal-architecture-in-rust-7.md)
 
 Hi, it is me again! At first I wanted to implement the remaining use cases we still have to work on. But this will be for the next time. Today we will do some refactoring :)
 

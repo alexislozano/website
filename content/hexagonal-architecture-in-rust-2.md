@@ -11,6 +11,7 @@ This article is part of the following series:
 - [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
 - [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
 - [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/hexagonal-architecture-in-rust-7.md)
 
 > Disclaimer: In this article, I'll use a simple mutable reference for the repository. That's because for now we are just using it in tests. I'll make the relevant changes in a next article ;)
 

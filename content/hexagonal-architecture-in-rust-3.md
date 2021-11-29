@@ -422,7 +422,7 @@ So we'll remove this `mut` in the trait and in our implementation :) Let's run `
    |         ^^^^^^^^^^^^^ `self` is a `&` reference, so the data it refers to cannot be borrowed as mutable
 ```
 
-Ouch, this error message is not very helping. We just removed `mut` and now the compiler wants us to add it back. Actually that's logical, the compiler does not know the repository is inside an `Arc`. 
+Ouch, this error message is not very helpful. We just removed `mut` and now the compiler wants us to add it back. Actually that's logical, the compiler does not know the repository is inside an `Arc`. 
 
 The interesting thing here is that the issue is not on the trait anymore but only on our `InMemory` implementation. We need to be able to mutate `pokemons` without `self` being mutable. That's interior mutability. And, again, Rust provides some primitives for that! We'll choose the `Mutex` primitive as it is designed for data being shared between threads. So let's wrap `pokemons` into a `Mutex`:
 

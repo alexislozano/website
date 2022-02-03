@@ -41,7 +41,7 @@ fn it_should_return_a_conflict_error_when_pokemon_number_already_exists() {
     let mut repo = InMemoryRepository::new();
     repo.insert(number, name, types);
     let req = Request {
-        number: u16::from(number),
+        number: 25,
         name: String::from("Charmander"),
         types: vec![String::from("Fire")],
     };

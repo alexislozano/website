@@ -60,8 +60,7 @@ mod api;
 mod domain;
 mod repositories;
 
-#[macro_use]
-extern crate rouille;
+use rouille::router;
 
 fn main() {
     api::serve("localhost:8000");
@@ -147,12 +146,6 @@ So let's go with:
 rouille = "3.2.1"
 serde = { version = "1.0.129", features = ["derive"] }
 serde_json = "1.0.66"
-```
-
-We'll also have to add the import in 'main.rs`:
-
-```
-extern crate serde;
 ```
 
 We are done with the dependencies! Now we can edit `api/health.rs`:

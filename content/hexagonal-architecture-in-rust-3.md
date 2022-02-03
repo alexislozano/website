@@ -538,3 +538,4 @@ As usual, the code is accessible on [github](https://github.com/alexislozano/pok
 ## Thanks
 
 - [woshilapin](https://github.com/woshilapin) for fixing some typos
+- [eopb](https://github.com/eopb) for your grammar fix

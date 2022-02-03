@@ -407,3 +407,7 @@ test it_should_return_the_pokemon_number_otherwise ... ok
 I feel the length of this article is enough, so let's stop here. Next time, I'll implement the front-end part as an HTTP API. After that, I'll work on the other use cases. I'll also work on having more repository and front-end implementations which will be activated with command line flags. If you want to be updated about the new articles, the blog has an rss feed ;)
 
 Like before, I've created a branch with all the changes on [github](https://github.com/alexislozano/pokedex/tree/article-2).
+
+## Thanks
+
+- [mre](https://github.com/mre) for fixing a bug in the code

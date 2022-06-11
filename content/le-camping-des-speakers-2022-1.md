@@ -1,7 +1,11 @@
 +++
 title = "Le camping des speakers - Day 1"
-date = 2022-06-11
+date = 2022-06-09
 +++
+
+This post is in two parts:
+- Le camping des speakers - Day 1
+- [Le camping des speakers - Day 2](@/le-camping-des-speakers-2022-2.md)
 
 Thursday was the first day of Le camping des speakers, 1st edition. It took place near Vannes, France. And I was there as an attendee, with my ears open.
 

@@ -90,7 +90,7 @@ There are various use cases:
 - list view + details
 - map mode a bit like in mario kart
 
-## App-Elles - Exemple de tech for good mobile à l'heure du confinement (App-Elles, a tech for good example in the lockdown context) - [Robin Caroff](https://twitter.com/robin.caroff)
+## App-Elles - Exemple de tech for good mobile à l'heure du confinement (App-Elles, a tech for good example in the lockdown context) - [Robin Caroff](https://twitter.com/RobinCaroff)
 
 With the lockdowns, it was really hard for social workers and people in need to meet.
 

@@ -124,6 +124,37 @@ A lead dev needs a lot of soft skills. There are some difficulties:
 - meetings
 - conflict management
 
+## Confinement: le livre dont vous êtes la victime (Lockdown, the book where you are the victim) - [Noël Macé](https://twitter.com/noel_mace) & [Valériane Venance](https://twitter.com/valeriane_IT)
+
+Disclaimer: for this talk and the next one, I did not write notes, so I'm writing here what I remember from the top of my head.
+
+Noël talked about how happy he was to take some time for himself. He even wanted to work on a book he was writing. However, the lockdown remained on and off for two years, weighting on him.
+
+Valériane talked about how she was talking in virtual meetups (and Twitch?) and how it was depressing showing her happy face, and then sitting face to a white wall, not feeling happy at all.
+
+Mostly, the big issues they were talking about were:
+- it was hard to project in the future and to begin new projects (even progressing on existing ones)
+- physical interactions with people are needed
+
+## Comment (ne pas) être un connard en 5 leçons (How to (not) be a douchebag in 5 lessons) - [Noël Macé](https://twitter.com/noel_mace) & [Valériane Venance](https://twitter.com/valeriane_IT)
+
+We begin with a focus on the French word "connard", coming from "con", an old word for the woman sex.
+
+Then, the whole talk was a sort of theatrical discussion between the two speakers, where they showed different issues:
+- engagement bias
+- manterrupting  and manspaining
+- not all X being a straw man to not discuss about systemic issues
+- an analogy with a sandwich: the violence of the system creating the reaction of oppressed people, then the system repression showing the people reaction as the only violence
+
+The conclusion of the talk was that we had to fight back the systemic violence, and that we should help oppressed people even if we are not oppressed.
+
+After that, the speakers had a discussion with the public about issues they encountered. Some of the testimonies were frightening:
+- sexual harassment (photos, messages, street insults...)
+- everyday sexism (comments on how a woman can be emasculating)
+- racism (tokenization, and how you can be depicted as "the good black person")
+
+I honestly loved this talk. Being myself a HSBC (white hetero cis man), listening to the testimonies of the people next to me was very interesting (and horrific).
+
 ## Conclusion
 
 That's all for the first day. Of course we also had some good food (burgers and sushi) and we had access to the swimming pool \o/

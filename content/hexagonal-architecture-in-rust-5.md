@@ -398,8 +398,6 @@ pub enum Error {
 It compiles but the test does not pass. Actually, our `execute` function always returns an unknown error so that's logical :p Let's edit it a bit then:
 
 ```
-use std::convert::TryFrom;
-
 pub fn execute(repo: Arc<dyn Repository>, req: Request) -> Result<(), Error> {
     match PokemonNumber::try_from(req.number) {
         Ok(number) => Err(Error::Unknown),
@@ -735,7 +733,6 @@ We don't need a `Response` type as we won't be returning anything in the `Ok` ca
 ```
 use crate::domain::entities::PokemonNumber;
 use crate::repositories::pokemon::{DeleteError, Repository};
-use std::convert::TryFrom;
 use std::sync::Arc;
 
 pub fn execute(repo: Arc<dyn Repository>, req: Request) -> Result<(), Error> {

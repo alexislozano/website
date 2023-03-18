@@ -114,7 +114,7 @@ Magali talks about the profiles we don't think about when thinking about the tec
 
 Some notes:
 
-- Anecdote: Magali is big. In a conference, she had to ask the organizers for a chair without arms. For the whole day, she had to make sure nobody was moving her chair or sitting in it. Big mental workload.
+- Anecdote: Magali is fat. In a conference, she had to ask the organizers for a chair without arms. For the whole day, she had to make sure nobody was moving her chair or sitting in it. Big mental workload.
 - Typical dev:
 	- white
 	- man

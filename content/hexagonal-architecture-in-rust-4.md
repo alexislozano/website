@@ -130,16 +130,7 @@ pub fn execute(repo: Arc<dyn Repository>, req: Request) -> Result<u16, Error> {
 }
 ```
 
-and delete the `Response` struct. The tests should pass now!
-
-```
-cargo test
-running 4 tests
-test it_should_return_a_conflict_error_when_pokemon_number_already_exists ... ok
-test it_should_return_a_bad_request_error_when_request_is_invalid ... ok
-test it_should_return_an_unknown_error_when_an_unexpected_error_happens ... ok
-test it_should_return_the_pokemon_number_otherwise ... ok
-```
+and delete the `Response` struct.
 
 Now, let's edit `api/create_pokemons.rs`:
 
@@ -153,6 +144,17 @@ pub fn serve(repo: Arc<dyn Repository>, req: &rouille::Request) -> rouille::Resp
         Err(create_pokemon::Error::Unknown) => rouille::Response::from(Status::InternalServerError),
     }
 }
+```
+
+The tests should pass now!
+
+```
+cargo test
+running 4 tests
+test it_should_return_a_conflict_error_when_pokemon_number_already_exists ... ok
+test it_should_return_a_bad_request_error_when_request_is_invalid ... ok
+test it_should_return_an_unknown_error_when_an_unexpected_error_happens ... ok
+test it_should_return_the_pokemon_number_otherwise ... ok
 ```
 
 Great! Let's do the same with the repository. 

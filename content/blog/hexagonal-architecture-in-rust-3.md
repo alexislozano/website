@@ -5,13 +5,13 @@ date = 2021-08-26
 
 This article is part of the following series:
 
-- [Hexagonal architecture in Rust #1 - Domain](@/hexagonal-architecture-in-rust-1.md)
-- [Hexagonal architecture in Rust #2 - In-memory repository](@/hexagonal-architecture-in-rust-2.md)
+- [Hexagonal architecture in Rust #1 - Domain](@/blog/hexagonal-architecture-in-rust-1.md)
+- [Hexagonal architecture in Rust #2 - In-memory repository](@/blog/hexagonal-architecture-in-rust-2.md)
 - Hexagonal architecture in Rust #3 - HTTP API
-- [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
-- [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
-- [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
-- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/hexagonal-architecture-in-rust-7.md)
+- [Hexagonal architecture in Rust #4 - Refactoring](@/blog/hexagonal-architecture-in-rust-4.md)
+- [Hexagonal architecture in Rust #5 - Remaining use-cases](@/blog/hexagonal-architecture-in-rust-5.md)
+- [Hexagonal architecture in Rust #6 - CLI](@/blog/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/blog/hexagonal-architecture-in-rust-7.md)
 
 Gather, my fellow soldiers. Today we're going to fight! Who, you tell me? The unspoken devil of these lands, the borrow-checker!
 

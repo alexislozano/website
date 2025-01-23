@@ -3,7 +3,7 @@ title = "Self-hosting a simple web page"
 date = 2021-01-26
 +++
 
-Hi there, long time no see! Well, new year, new article :) So let's begin where we have stopped [last time](@/self-hosting-the-basics.md). We were talking about the Internet and how it is relatively easy to host a website or a service.
+Hi there, long time no see! Well, new year, new article :) So let's begin where we have stopped [last time](@/blog/self-hosting-the-basics.md). We were talking about the Internet and how it is relatively easy to host a website or a service.
 
 ## What will be our service?
 

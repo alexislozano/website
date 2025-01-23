@@ -4,7 +4,7 @@ date = 2022-06-10
 +++
 
 This post is in two parts:
-- [Le camping des speakers - Day 1](@/le-camping-des-speakers-2022-1.md)
+- [Le camping des speakers - Day 1](@/blog/le-camping-des-speakers-2022-1.md)
 - Le camping des speakers - Day 2
 
 In this article, I'm going to write my notes about this second and last day and the conferences I have attended.

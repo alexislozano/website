@@ -5,12 +5,12 @@ date = 2021-10-17
 
 This article is part of the following series:
 
-- [Hexagonal architecture in Rust #1 - Domain](@/hexagonal-architecture-in-rust-1.md)
-- [Hexagonal architecture in Rust #2 - In-memory repository](@/hexagonal-architecture-in-rust-2.md)
-- [Hexagonal architecture in Rust #3 - HTTP API](@/hexagonal-architecture-in-rust-3.md)
-- [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
-- [Hexagonal architecture in Rust #5 - Remaining use-cases](@/hexagonal-architecture-in-rust-5.md)
-- [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #1 - Domain](@/blog/hexagonal-architecture-in-rust-1.md)
+- [Hexagonal architecture in Rust #2 - In-memory repository](@/blog/hexagonal-architecture-in-rust-2.md)
+- [Hexagonal architecture in Rust #3 - HTTP API](@/blog/hexagonal-architecture-in-rust-3.md)
+- [Hexagonal architecture in Rust #4 - Refactoring](@/blog/hexagonal-architecture-in-rust-4.md)
+- [Hexagonal architecture in Rust #5 - Remaining use-cases](@/blog/hexagonal-architecture-in-rust-5.md)
+- [Hexagonal architecture in Rust #6 - CLI](@/blog/hexagonal-architecture-in-rust-6.md)
 - Hexagonal architecture in Rust #7 - Long-lived repositories
 
 It is now the time for the last article of the series. Thanks a lot to you, anonymous reader who is still here after seven posts. We already have covered a lot of things: we have a domain, we store data, and we can operate our program with both a CLI and an HTTP server. So what do we still have to work on? Oh, I see the client, let's ask him.

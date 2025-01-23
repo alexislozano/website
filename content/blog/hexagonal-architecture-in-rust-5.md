@@ -5,13 +5,13 @@ date = 2021-09-12
 
 This article is part of the following series:
 
-- [Hexagonal architecture in Rust #1 - Domain](@/hexagonal-architecture-in-rust-1.md)
-- [Hexagonal architecture in Rust #2 - In-memory repository](@/hexagonal-architecture-in-rust-2.md)
-- [Hexagonal architecture in Rust #3 - HTTP API](@/hexagonal-architecture-in-rust-3.md)
-- [Hexagonal architecture in Rust #4 - Refactoring](@/hexagonal-architecture-in-rust-4.md)
+- [Hexagonal architecture in Rust #1 - Domain](@/blog/hexagonal-architecture-in-rust-1.md)
+- [Hexagonal architecture in Rust #2 - In-memory repository](@/blog/hexagonal-architecture-in-rust-2.md)
+- [Hexagonal architecture in Rust #3 - HTTP API](@/blog/hexagonal-architecture-in-rust-3.md)
+- [Hexagonal architecture in Rust #4 - Refactoring](@/blog/hexagonal-architecture-in-rust-4.md)
 - Hexagonal architecture in Rust #5 - Remaining use-cases
-- [Hexagonal architecture in Rust #6 - CLI](@/hexagonal-architecture-in-rust-6.md)
-- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/hexagonal-architecture-in-rust-7.md)
+- [Hexagonal architecture in Rust #6 - CLI](@/blog/hexagonal-architecture-in-rust-6.md)
+- [Hexagonal architecture in Rust #7 - Long-lived repositories](@/blog/hexagonal-architecture-in-rust-7.md)
 
 Last time, we've done a bit a refactoring. Somehow, our client is angry at us... I mean, he should be happy, the code is now cleaner as ever. 'Kay, he does not know the good things. He's talking about use cases and how we still have work to do.
 

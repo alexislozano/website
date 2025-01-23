@@ -3,7 +3,7 @@ title = "Sum types, but this time in TypeScript"
 date = 2020-12-29
 +++
 
-This will just be a wall of code, nothing more. If you have read my article about [sum types](@/sum-types-what-is-it.md), you know what sum types are. Following is just my attempt to the implementation in TypeScript of the Elm code I have previously written.
+This will just be a wall of code, nothing more. If you have read my article about [sum types](@/blog/sum-types-what-is-it.md), you know what sum types are. Following is just my attempt to the implementation in TypeScript of the Elm code I have previously written.
 
 ```
 type Animal 

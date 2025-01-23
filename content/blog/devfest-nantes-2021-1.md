@@ -5,7 +5,7 @@ date = 2021-10-21
 
 This post is in two parts:
 - DevFest Nantes 2021 - Day 1
-- [DevFest Nantes 2021 - Day 2](@/devfest-nantes-2021-2.md)
+- [DevFest Nantes 2021 - Day 2](@/blog/devfest-nantes-2021-2.md)
 
 Today was the first day of the 2021 edition of the DevFest in Nantes, France. There were a lot of conferences and attendees. And I was there, in the public, taking notes about what I was learning.
 

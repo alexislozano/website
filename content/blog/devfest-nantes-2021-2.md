@@ -4,7 +4,7 @@ date = 2021-10-22
 +++
 
 This post is in two parts:
-- [DevFest Nantes 2021 - Day 1](@/devfest-nantes-2021-1.md)
+- [DevFest Nantes 2021 - Day 1](@/blog/devfest-nantes-2021-1.md)
 - DevFest Nantes 2021 - Day 2
 
 In this post, I'll write the notes I took during the conferences I attended to. Have a nice read :)

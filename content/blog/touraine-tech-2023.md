@@ -274,7 +274,7 @@ Some notes
 	2. Feature / Product
 	3. Actionable feedback & bug ratio
 
-## Remotion: the 7th art with web components - [Mickael Alves](https://twitter.com/CruuzAzul) & [Antoine Caron](https://twitter.com/Slashgear_)
+## Remotion: the 7th art with web components - [Mickael Alves](https://twitter.com/mickaelalvs) & [Antoine Caron](https://twitter.com/Slashgear_)
 
 This talk is about generating videos and animations using code with Remotion. It was only a big demo talk so I don't have any notes. But it was super cool to watch 😎
 
